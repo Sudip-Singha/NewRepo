@@ -1,15 +1,13 @@
 
-## 👋 &nbsp;Hey there! I'm Sudip
+## &nbsp;Hey there! I'm Sudip
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
-👋 Hello, I'm Sudip
-🌟 Frontend Developer | UI/UX Enthusiast
-🌐 Creating pixel-perfect web experiences
-💡 Passionate about responsive design & accessibility
-🎨 Design-driven development advocate
-📚 Lifelong learner | Code explorer
-🔗 Let's connect and build something amazing!
+🌟 Frontend Developer | UI/UX Enthusiast <br/>
+🌐 Creating pixel-perfect web experiences <br/>
+💡 Passionate about responsive design & accessibility <br/>
+🎨 Design-driven development advocate <br/>
+📚 Lifelong learner | Code explorer <br/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -27,9 +25,10 @@
 ![Canva](https://ibb.co/kytsBch)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### &nbsp;🔗 Let's connect
+
 
 <p align="center">
-<a href="https://linkedin.com/in/profile-sudipsingha"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sudipsingha5395@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:sudipsingha5395@gmail.com">Email Me</a> &nbsp;
+  <a href="https//:www.linkedin.com/profile-sudipsingha">Linkedin</a>
 </p>
